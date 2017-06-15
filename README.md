@@ -1,2 +1,2 @@
-# computer vistion 
-# Convolusional neural network 
+# Computer vision 
+  Benchmark for Convolusional neural network 
